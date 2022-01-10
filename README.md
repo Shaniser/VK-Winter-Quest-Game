@@ -1,7 +1,7 @@
 # VK Winter Quest Game
  Редактор для решения задачи, поставленной в рамках "[VK Winter Quest](https://cups.online/ru/workareas/vkwinterquest/659/1205)"
  
- Для запуска (Windows):
+ Запуск (Windows):
   1. Скачать [этот](https://github.com/Shaniser/VK-Winter-Quest-Game/releases/tag/v1.0) архив
   2. Распаковть в любую папку
   3. Запустить VK Winter Quest.exe
